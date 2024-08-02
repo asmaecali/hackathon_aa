@@ -71,11 +71,6 @@ Usage
 
     python votre_script.py
 
-Exemple
-
-python
-
-ar("/chemin/vers/votre/dossier/videos")
 
 Résultats
 
